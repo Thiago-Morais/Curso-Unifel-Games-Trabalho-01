@@ -1,0 +1,29 @@
+Dica 1: Você pode colocar as perguntas junto com as opções dentro de um vetor
+Dica 2: Você pode colocar as alternativas corretas dentro de um vetor
+Dica 3: Use um comando de loop para poder percorrer todas as questões a serem exibidas ao jogador, assim como a alternativa correta para comparar
+
+Perguntas:
+
+"1) Qual comando utilizado para escrever no terminal?\n a. Console.WriteLine \n b. Console.ReadLine \n c. Console.LineWrite \n d. Console.LineRead"
+"2) O C# é uma linguagem de qual categoria?\n a. Estruturada \n b. Orientada a Objetos \n c. Script \n d. Marcação"
+"3) O C# tem como pai qual outra linguagem?\n a. Java \n b. Python \n c. HTML \n d. C"
+"4) Qual comando para criar comentários no C#?\n a. // \n b. \\\\ \n c. || \n d. !--"
+"5) Dentre os tipos de variáveis abaixo, qual consome 1 bit?\n a. int \n b. char \n c. bool \n d. string"
+"6) Qual operador corresponde ao resto da divisão?\n a. # \n b. $ \n c. & \n d. %"
+"7) Qual comando utilizamos para converter para inteiro?\n a. int.Parse \n b. int.Convert \n c. Convert.Parse \n d. Convert.Int"
+"8) Qual símbolo usamos para escrever o valor da variável no terminal?\n a. % \n b. $ \n c. & \n d. #"
+"9) Qual dos nomes de variáveis abaixo é válido?\n a. 123var \n b. nome variavel \n c. !nome! \n d. Variavel_123_Ex"
+"10) Qual comando para gerar números aleatórios?\n a. Console.Random \n b. Math.Random \n c. Random \n d. Random.Round"
+
+
+Respostas corretas
+"a"
+"b"
+"d"
+"a"
+"c"
+"d"
+"a"
+"b"
+"d"
+"c"
